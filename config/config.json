@@ -1,0 +1,4 @@
+{
+	"apiUrl": "https://waterinfo.rws.nl/api/Download/CSV",
+	"timehorizon": "-6,0"
+}

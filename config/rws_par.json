@@ -1,0 +1,18 @@
+[
+  {
+    "par": "WC10",
+    "expertParameter": "Windsnelheid___20Lucht___20t.o.v.___20Mean___20Sea___20Level___20in___20m___2Fs"
+  },
+  {
+    "par": "WR10",
+    "expertParameter": "Windrichting___20Lucht___20t.o.v.___20ware___20Noorden___20in___20graad"
+  },
+  {
+    "par": "H1d3",
+    "expertParameter": "Significante___20golfhoogte___20in___20het___20spectrale___20domein___20Oppervlaktewater___20golffrequentie___20tussen___2030___20en___20500___20mHz___20in___20cm"
+  },
+  {
+    "par": "Th0_B0",
+    "expertParameter": "Gemiddelde___20golfrichting___20in___20het___20spectrale___20domein___20Oppervlaktewater___20golffrequentie___20tussen___2030___20en___20500___20mHz___20in___20graad"
+  }
+]

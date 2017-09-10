@@ -1,0 +1,184 @@
+[
+  {
+    "locationSlug": 2724,
+    "locatienaam": "K13 Alpha",
+    "lat": 53.218056,
+    "lng": 3.22,
+    "loc": "K13"
+  },
+  {
+    "locationSlug": 3273,
+    "locatienaam": "A12 platform",
+    "lat": 55.416663,
+    "lng": 3.816671,
+    "loc": "A12"
+  },
+  {
+    "locationSlug": 2175,
+    "locatienaam": "Q1 platform",
+    "lat": 52.925335,
+    "lng": 4.150361,
+    "loc": "Q1"
+  },
+  {
+    "locationSlug": 4458,
+    "locatienaam": "IJgeul Munitiestort 1",
+    "lat": 52.567568,
+    "lng": 4.079319,
+    "loc": "MUN1"
+  },
+  {
+    "locationSlug": 4553,
+    "locatienaam": "IJgeul1",
+    "lat": 52.48841,
+    "lng": 4.26392,
+    "loc": "IJG1"
+  },
+  {
+    "locationSlug": 2719,
+    "locatienaam": "Europlatform",
+    "lat": 51.997801,
+    "lng": 3.275075,
+    "loc": "EPL"
+  },
+  {
+    "locationSlug": 1074,
+    "locatienaam": "Eurogeul E13",
+    "lat": 52.00814,
+    "lng": 3.73541,
+    "loc": "E13"
+  },
+  {
+    "locationSlug": 2183,
+    "locatienaam": "Maasmond stroommeetpaal",
+    "lat": 51.991677,
+    "lng": 4.008703,
+    "loc": "SPM"
+  },
+  {
+    "locationSlug": 3268,
+    "locatienaam": "Schouwenbank 2 boei",
+    "lat": 51.743797,
+    "lng": 3.306202,
+    "loc": "SCB2"
+  },
+  {
+    "locationSlug": 4456,
+    "locatienaam": "Deurloo",
+    "lat": 51.5027,
+    "lng": 3.242044,
+    "loc": "DEUR"
+  },
+  {
+    "locationSlug": 3879,
+    "locatienaam": "Eierlandse Gat boei",
+    "lat": 53.276188,
+    "lng": 4.66036,
+    "loc": "ELD1"
+  },
+  {
+    "locationSlug": 2174,
+    "locatienaam": "Stortemelk boei",
+    "lat": 53.322762,
+    "lng": 4.989148,
+    "loc": "STM1"
+  },
+  {
+    "locationSlug": 4444,
+    "locatienaam": "Amelander Zeegat Boei 1-1",
+    "lat": 53.530803,
+    "lng": 5.477385,
+    "loc": "AZB22"
+  },
+  {
+    "locationSlug": 3260,
+    "locatienaam": "Schiermonnikoog Westgat boei",
+    "lat": 53.52612,
+    "lng": 6.03565,
+    "loc": "SMWG"
+  },
+  {
+    "locationSlug": 1608,
+    "locatienaam": "Schiermonnikoog Noord boei",
+    "lat": 53.594831,
+    "lng": 6.165396,
+    "loc": "SMN1"
+  },
+  {
+    "locationSlug": 515,
+    "locatienaam": "Westereems West boei",
+    "lat": 53.619529,
+    "lng": 6.367937,
+    "loc": "WEW1"
+  },
+  {
+    "locationSlug": 1088,
+    "locatienaam": "IJgeul stroommeetpaal",
+    "lat": 52.463736,
+    "lng": 4.517361,
+    "loc": "SPY"
+  },
+  {
+    "locationSlug": 4529,
+    "locatienaam": "Lage Licht",
+    "lat": 51.988089,
+    "lng": 4.077869,
+    "loc": "LALI"
+  },
+  {
+    "locationSlug": 537,
+    "locatienaam": "Schaar",
+    "lat": 51.64919,
+    "lng": 3.682036,
+    "loc": "SCHA"
+  },
+  {
+    "locationSlug": 2173,
+    "locatienaam": "Vlakte v/d Raan",
+    "lat": 51.503719,
+    "lng": 3.242052,
+    "loc": "VVDR"
+  },
+  {
+    "locationSlug": 3276,
+    "locatienaam": "J6 platform",
+    "lat": 53.816632,
+    "lng": 2.95001,
+    "loc": "J6"
+  },
+  {
+    "locationSlug": 4454,
+    "locatienaam": "F16 platform",
+    "lat": 54.116669,
+    "lng": 4.01667,
+    "loc": "F16"
+  },
+  {
+    "locationSlug": 4455,
+    "locatienaam": "F3 platform",
+    "lat": 54.84999,
+    "lng": 4.716658,
+    "loc": "F3"
+  },
+  {
+    "locationSlug": 1617,
+    "locatienaam": "L9 platform",
+    "lat": 53.616669,
+    "lng": 4.966667,
+    "loc": "L9"
+  },
+  {
+    "locationSlug": 1075,
+    "locatienaam": "Terschelling Noordzee",
+    "lat": 53.42794,
+    "lng": 5.33319,
+    "loc": "TSNZ"
+  },
+  {
+    "locationSlug": 3871,
+    "locatienaam": "AWG platform",
+    "lat": 53.49164,
+    "lng": 5.94114,
+    "loc": "AWG"
+  }
+]

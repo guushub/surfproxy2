@@ -1,0 +1,29 @@
+{
+  "name": "surf-proxy-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/index.js",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "build": "tsc",
+    "build:w": "tsc -w"
+  },
+  "keywords": [],
+  "author": "Guus Claessen",
+  "license": "ISC",
+  "devDependencies": {
+    "@style-types/fast-csv": "^1.0.0",
+    "@types/moment": "^2.13.0",
+    "@types/moment-timezone": "^0.2.34",
+    "@types/node": "^7.0.18",
+    "@types/promise": "^7.1.30",
+    "@types/request": "0.0.43"
+  },
+  "dependencies": {
+    "fast-csv": "^2.4.0",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "promise": "^7.1.1",
+    "request": "^2.81.0"
+  }
+}
